@@ -1,1 +1,1 @@
-# Fintech-Lending-Insights-Customer-Behavior-Analysis
+# Fintech Lending Insights & Customer Behavior Analysis
