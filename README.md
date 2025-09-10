@@ -9,5 +9,5 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 
 ## Bussiness Objectives:
 **1. Loan Portfolio Performance Analysis**
-2. Customer Behavior & Income Analytics
-3. Regional & Temporal Lending Trends
+**2. Customer Behavior & Income Analytics**
+**3. Regional & Temporal Lending Trends**
