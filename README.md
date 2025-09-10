@@ -4,3 +4,10 @@
 
 ## Project Background:
 CredWise Financial Services is a U.S.-based digital lending company that provides personal and business loans across states like New Jersey, New York, Connecticut, and Massachusetts. With growing competition and rising loan defaults in some regions, the company wants to use data to better understand customer behavior, income patterns, and regional lending trends. The goal of this project is to identify risks, improve loan approval strategies, and ensure healthier portfolio growth across subregions.
+
+---
+
+## Bussiness Objectives:
+1. Loan Portfolio Performance Analysis
+2. Customer Behavior & Income Analytics
+3. Regional & Temporal Lending Trends
