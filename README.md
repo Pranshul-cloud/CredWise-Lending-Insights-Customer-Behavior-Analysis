@@ -30,3 +30,4 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 -
 ![Loan Portfolio Performance](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual)
 -
+* 2013 was the Peak year with max Loan amount and highest Intrest rate.
