@@ -27,6 +27,5 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 
 ### Loan Portfolio Performance:
 ![Loan Portfolio Performance](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.pivot)
-
-
+-
 ![Loan Portfolio Performance](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual)
