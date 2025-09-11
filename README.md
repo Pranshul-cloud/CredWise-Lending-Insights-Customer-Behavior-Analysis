@@ -30,6 +30,6 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 -
 ![Loan Portfolio Performance](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual)
 -
-* 2013 was the Peak Year with Max Loan Amount**($148,637,450)** and Highest Intrest Rate**(14.65 %)**.
+* 2013 was the Peak Year with Max Loan Amount **($148,637,450)** and Highest Intrest Rate **(14.65 %)**.
 * 2014 And 2015 saw a decline in both Total Loan Amount & Intrest Rate.
 * Avg Installment amount has been constatnt throught  the Years.
