@@ -26,3 +26,4 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 ## Insights Deep Dive:
 
 ### Loan Portfolio Performance:
+![Loan Portfolio Performance](images/my_plot.png)
