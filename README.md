@@ -34,3 +34,4 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 * 2013 marked the peak year, recording the highest total loan amount of **$148.6M** alongside the maximum interest rate of **14.65%**.
 * 2014 and 2015 experienced a decline in both the total loan amount disbursed and the average interest rate.
 * The average installment amount remained consistent across all years, indicating stability in repayment structures.
+* The Intrest rates are Lowest in 2015 **12.99%** cutting down Margins.
