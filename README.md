@@ -19,7 +19,7 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 ---
 
 ## CredWise Financial Services Dataset ERD
-![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Screenshot%202025-09-08%20105532.png)
+![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/ERD.png)
 
 ---
 
