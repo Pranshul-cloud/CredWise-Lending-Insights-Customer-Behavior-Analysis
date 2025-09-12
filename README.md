@@ -62,7 +62,7 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 
 **1**  Loan Portfolio Performance Analysis
 Since 2015 showed the lowest interest rates (12.99%) and declining loan disbursements, the Company should focus on improving loan volume rather than depending on higher         margins.This can be donw by:
-                              * Expanding Credit Outreach
-                              * Introducing Introducing differentiated loan products(Education Loans , SME Loans)
-                              * Strengthening customer acquisition through partnerships and digital channels. 
+-  Expanding Credit Outreach.
+-  Introducing Introducing differentiated loan products(Education Loans , SME Loans).
+-  Strengthening customer acquisition through partnerships and digital channels. 
                               *
