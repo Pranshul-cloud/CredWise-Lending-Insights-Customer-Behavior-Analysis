@@ -55,3 +55,14 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 * Almost all states saw a significant spike in **2013**, indicating a strong growth year compared to **2012**, **2014**, and **2015**. For example, **CA** went from **$6M** in **2012** to **$21M** in **2013**.
 * After the **2013 peak**, **revenues** declined in **2014** and **2015** for all states. This may indicate market saturation or external factors affecting revenue.
 * **GA**, **IL**, **MN**, **VA** consistently have the **lowest figures**, even during the **2013 peak**. These could be target states for performance improvement initiatives.
+
+  ---
+
+  ## Recomendations:
+
+**1**  Loan Portfolio Performance Analysis
+Since 2015 showed the lowest interest rates (12.99%) and declining loan disbursements, the Company should focus on improving loan volume rather than depending on higher         margins.This can be donw by:
+                              * Expanding Credit Outreach
+                              * Introducing Introducing differentiated loan products(Education Loans , SME Loans)
+                              * Strengthening customer acquisition through partnerships and digital channels. 
+                              *
