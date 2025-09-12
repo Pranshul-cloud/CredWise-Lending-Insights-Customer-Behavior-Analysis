@@ -41,7 +41,9 @@ Loan disbursements peaked in 2013 at $148.6M with the highest interest rate of 1
 
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Customer_behaviour_income_analytics.pivot" width="80%">
 
-![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/customer_behaviour_income_analytics.visual)
+<img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/customer_behaviour_income_analytics.visual" width="80%">
+
+
 
 ### Key Performance Indicators:
 * Individuals taking loans for **Debt Consolidation**, **Credit Cards**, and **Home-related purposes**  account for the **majority** of loan-linked income. Together, these categories represent over **90%** of the **total annual income**, with **Debt Consolidation** alone contributing nearly **65%**.
