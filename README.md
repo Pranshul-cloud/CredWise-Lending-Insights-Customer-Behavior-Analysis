@@ -78,6 +78,7 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 * Analyze drivers behind the 2013 surge (policy changes, promotions, economic trends). Replicating those success factors could help revive growth in 2014–2015 levels.
 
 ---
-* Check all the [SQL Query:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.sql)
+* Check the [SQL Query:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.sql)
 * Check the Jypyter notebook for [Python codes:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.ipynb)
+* Check the [raw data](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/data.csv)
                             
