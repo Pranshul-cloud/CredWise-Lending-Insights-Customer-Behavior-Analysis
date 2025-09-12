@@ -6,6 +6,7 @@
 - **[Project Background](#project-background)**
 - **[Bussiness Objectives](#business-objectives)**
 - **[Executive Summary](#executive-summary)**
+- **[ERD](#erd)**
 - **[Insights Deep Dive](#isights-deep-dive)**
 - **[Recommendations](#recommendations)**
   
