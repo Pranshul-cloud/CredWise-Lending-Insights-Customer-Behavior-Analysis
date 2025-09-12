@@ -8,7 +8,7 @@
 - **[Executive Summary](#executive-summary)**
 - **[ERD](#erd)**
 - **[Insights Deep Dive](#isights-deep-dive)**
-    - [Loan Portfolio Performance](#loan-portfolio_performance)
+    - [Loan Portfolio Performance](#loan-portfolio-performance)
 - **[Recommendations](#recommendations)**
   
 ---
