@@ -3,8 +3,8 @@
 ---
 ## Table od Contents
 
--[Project Background](#project-background)
--[Bussiness Objectives](#business-objectives)
+1[Project Background](#project-background)
+2[Bussiness Objectives](#business-objectives)
 ---
 
 ## Project Background:
