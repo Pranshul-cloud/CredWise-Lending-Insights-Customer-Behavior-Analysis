@@ -79,7 +79,8 @@ Loan disbursements peaked in 2013 at $148.6M with the highest interest rate of 1
 * Analyze drivers behind the 2013 surge (policy changes, promotions, economic trends). Replicating those success factors could help revive growth in 2014–2015 levels.
 
 ---
+* Check the [raw data](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/data.csv)
 * Check the [SQL Query:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.sql)
 * Check the Jypyter notebook for [Python codes:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.ipynb)
-* Check the [raw data](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/data.csv)
+
                             
