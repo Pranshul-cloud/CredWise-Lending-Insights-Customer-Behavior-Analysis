@@ -9,7 +9,7 @@
 - **[ERD](#erd)**
 - **[Insights Deep Dive](#isights-deep-dive)**
     - [Loan Portfolio Performance](#loan-portfolio-performance)
-    - [Customer Behaviour & Income Analytics](#customer-behaviour-&-income-analytics)
+    - [Customer Behaviour & Income Analytics](#customer-behaviour--income-analytics)
 - **[Recommendations](#recommendations)**
   
 ---
