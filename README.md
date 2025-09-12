@@ -76,4 +76,8 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 * Maintain strong focus on California and Texas, which consistently lead revenues. Consider loyalty programs, premium products, or expanded distribution to sustain dominance and prevent competitor entry.
 * Launch performance improvement initiatives such as localized marketing, partnerships, or customized loan/credit products to unlock untapped potential in these lagging regions.
 * Analyze drivers behind the 2013 surge (policy changes, promotions, economic trends). Replicating those success factors could help revive growth in 2014–2015 levels.
+
+---
+
+* ![Check all the Sql Query used above here:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.sql)
                             
