@@ -15,7 +15,7 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 ---
 
 ## Executive Summary:
-Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest rate** of **14.65%**, before declining in **2014–2015** as rates fell to **12.99%**. Income is heavily concentrated, with Debt Consolidation contributing **~65%** and, along with Credit Cards and Home Loans, making up over **90%** of revenues. Borrowers with Car and Home Loans show stronger repayment potential due to above-average balances, while Renewable Energy and Wedding Loans carry **~50%** **lower balances, indicating higher risk. Regionally**, **California and Texas** each exceeded **$21M** in **2013** and remain top contributors, while **GA, IL, MN**, and **VA** consistently underperform, highlighting the need to expand volumes, **strengthen reliable segments**, **manage high-risk loans**, and improve weaker markets.
+Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest rate** of **14.65%**, before declining in **2014–2015** as rates fell to **12.99%**. Income is heavily concentrated, with Debt Consolidation contributing **~65%** and, along with Credit Cards and Home Loans, making up over **90%** of revenues. Borrowers with Car and Home Loans show stronger repayment potential due to above-average balances, while Renewable Energy and Wedding Loans carry **~50%** lower balances, indicating higher risk. Regionally, **California and Texas** each exceeded **$21M** in **2013** and remain top contributors, while **GA, IL, MN**, and **VA** consistently underperform, highlighting the need to expand volumes, **strengthen reliable segments**, **manage high-risk loans**, and improve weaker markets.
 
 ---
 
