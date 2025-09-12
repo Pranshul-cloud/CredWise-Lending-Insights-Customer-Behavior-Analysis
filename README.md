@@ -43,4 +43,7 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 * Individuals taking loans for **Debt Consolidation**, **Credit Cards**, and **Home-related purposes**  account for the **majority** of loan-linked income. Together, these categories represent over **90%** of the **total annual income**, with **Debt Consolidation** alone contributing nearly **65%**.
 * **Average Current Balance** of indivisuals with  **Cars** & **Home Loans** are slightly Higher than the average which shows Higher possibility of Loan payment on Time.
 * **Average Current Balance** of indivisuals with **Renewable energy** & **Wedding Loans** is nearly half of the average which shows Lower possibility of Loan payment on Time.
- 
+
+ ---
+
+ ![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Regional_yearly_lending_trends.pivot)
