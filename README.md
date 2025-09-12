@@ -8,6 +8,7 @@
 - **[Executive Summary](#executive-summary)**
 - **[ERD](#erd)**
 - **[Insights Deep Dive](#isights-deep-dive)**
+    - [Loan Portfolio Performance](#loan-portfolio_performance)
 - **[Recommendations](#recommendations)**
   
 ---
@@ -38,6 +39,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 
 ## Insights Deep Dive:
 
+<a name="loan-portfolio-performance"></a>
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.pivot" width="110%">
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual" width="95%">
 
