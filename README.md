@@ -1,9 +1,9 @@
 # ⚡Fintech Lending Insights & Customer Behavior Analysis
 
 ---
-## Table od Contents
+## Table of Contents
 
-- [Project Background](#project-background)
+- **[Project Background](#project-background)**
 - [Bussiness Objectives](#business-objectives)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#isights-deep-dive)
