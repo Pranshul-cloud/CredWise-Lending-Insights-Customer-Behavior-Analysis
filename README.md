@@ -39,7 +39,7 @@ Loan disbursements peaked in 2013 at $148.6M with the highest interest rate of 1
 
   ---
 
-<img src="Img/ERD.png" width="60%">
+<img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Customer_behaviour_income_analytics.pivot" width="60%">
 ![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/customer_behaviour_income_analytics.visual)
 
 ### Key Performance Indicators:
