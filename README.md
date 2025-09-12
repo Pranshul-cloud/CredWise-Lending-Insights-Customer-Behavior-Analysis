@@ -20,7 +20,8 @@ Loan disbursements peaked in 2013 at $148.6M with the highest interest rate of 1
 ---
 
 ## CredWise Financial Services Dataset ERD
-* ![The Entity Relationship Diagram below outlines the relationships between the following Tables in Dataset](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/ERD.png)
+* The Entity Relationship Diagram below outlines the relationships between the following Tables in Dataset
+ ![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/ERD.png)
 
 
 ---
