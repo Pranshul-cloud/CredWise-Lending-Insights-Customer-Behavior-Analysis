@@ -41,3 +41,5 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 -
 ### Key Performance Indicators:
 * **Debt Consolidation** , **Home Loans** & **Credit Cards** covers more than **90%** of Loans and **Dept Consolidation** alone covers nearly **65%** of Loans.
+* **Average Current Balance** of indivisuals with  **Cars** & **Home Loans** are slightly Higher than the average which shows higher possibility of Loan Fulfillment.
+ 
