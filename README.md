@@ -4,10 +4,11 @@
 ## Table of Contents
 
 - **[Project Background](#project-background)**
-- [Bussiness Objectives](#business-objectives)
-- [Executive Summary](#executive-summary)
-- [Insights Deep Dive](#isights-deep-dive)
-- [Recommendations](#recommendations)
+- **[Bussiness Objectives](#business-objectives)**
+- **[Executive Summary](#executive-summary)**
+- **[Insights Deep Dive](#isights-deep-dive)**
+- **[Recommendations](#recommendations)**
+  
 ---
 
 ## Project Background:
