@@ -28,8 +28,9 @@ Loan disbursements peaked in 2013 at $148.6M with the highest interest rate of 1
 
 ## Insights Deep Dive:
 
-![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.pivot)
-![](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual)
+<img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.pivot" width="100%">
+<img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual" width="80%">
+
 -
 ### Key Performance Indicators:
 * **2013** marked the **peak year**, recording the **highest total loan amount** of **$148.6M** alongside the maximum **interest rate** of **14.65%**.
