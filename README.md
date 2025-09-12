@@ -64,5 +64,11 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
    Since 2015 showed the lowest interest rates (12.99%) and declining loan disbursements, the Company should focus on improving loan volume rather than depending on higher      margins.This can be donw by:
 -  Expanding Credit Outreach.
 -  Introducing Introducing differentiated loan products(Education Loans , SME Loans).
--  Strengthening customer acquisition through partnerships and digital channels. 
-                              *
+-  Strengthening customer acquisition through partnerships and digital channels.
+
+**2** **Customer Behavior & Income Analytics**
+
+* Since Debt Consolidation, Credit Cards, and Home Loans contribute >90% of loan-linked income, continue prioritizing these categories with tailored products, competitive rates, and targeted marketing.
+*  Leverage reliable segments: Borrowers with Car & Home Loans show stronger repayment potential; offer pre-approved top-up loans or cross-sell products (insurance, investments) to maximize wallet share.
+*  Manage high-risk segments: Borrowers with Renewable Energy & Wedding Loans have lower balances, indicating higher default risk; tighten credit checks, limit exposure, or apply higher risk premiums.
+                            
