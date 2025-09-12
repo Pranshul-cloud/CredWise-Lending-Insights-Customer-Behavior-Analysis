@@ -4,6 +4,7 @@
 ## Table od Contents
 
 -[Project Background](#project-background)
+-[Bussiness Objectives](#business-objectives)
 ---
 
 ## Project Background:
@@ -11,7 +12,7 @@ CredWise Financial Services is a U.S.-based digital lending company that provide
 
 ---
 
-## Bussiness Objectives:
+## Business Objectives:
 1. Loan Portfolio Performance Analysis
 2. Customer Behavior & Income Analytics
 3. Regional & Temporal Lending Trends
