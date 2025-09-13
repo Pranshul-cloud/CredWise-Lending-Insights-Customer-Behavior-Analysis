@@ -7,7 +7,7 @@
 - **[Bussiness Objectives](#business-objectives)**
 - **[Executive Summary](#executive-summary)**
 - **[ERD](#credWise-financial-services-dataset-erd)**
-- **[Insights Deep Dive](#isights-deep-dive)**
+- **[Insights Deep Dive](#insights-deep-dive)**
     - **[Loan Portfolio Performance](#loan-portfolio-performance)**
     - **[Customer Behaviour And Income Analytics](#customer-behaviour-and-income-analytics)**
     - **[Regional And Temporal Lendig Trends](#regional-and-temporal-lending-trends)**
