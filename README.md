@@ -6,7 +6,7 @@
 - **[Project Background](#project-background)**
 - **[Bussiness Objectives](#business-objectives)**
 - **[Executive Summary](#executive-summary)**
-- **[ERD](#erd)**
+- **[ERD](#credWisefinancialservicesdataseterd)**
 - **[Insights Deep Dive](#isights-deep-dive)**
     - **[Loan Portfolio Performance](#loan-portfolio-performance)**
     - **[Customer Behaviour And Income Analytics](#customer-behaviour-and-income-analytics)**
