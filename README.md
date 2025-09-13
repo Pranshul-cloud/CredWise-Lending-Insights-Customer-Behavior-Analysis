@@ -8,9 +8,9 @@
 - **[Executive Summary](#executive-summary)**
 - **[ERD](#erd)**
 - **[Insights Deep Dive](#isights-deep-dive)**
-    - [Loan Portfolio Performance](#loan-portfolio-performance)
-    - [Customer Behaviour And Income Analytics](#customer-behaviour-and-income-analytics)
-    - [Regional And Temporal Lendig Trends](#regional-and-temporal-lending-trends)
+    - **[Loan Portfolio Performance](#loan-portfolio-performance)**
+    - **[Customer Behaviour And Income Analytics](#customer-behaviour-and-income-analytics)**
+    - **[Regional And Temporal Lendig Trends](#regional-and-temporal-lending-trends)**
 - **[Recommendations](#recommendations)**
   
 ---
