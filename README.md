@@ -104,5 +104,6 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 * Check the [raw data](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/data.csv)
 * Check the [SQL Query:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.sql)
 * Check the Jypyter notebook for [Python codes:](https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_analysis.ipynb)
+* Check more shuch projects on my [Portfolio website](https://preview--pranshul-analytics-hub-05.lovable.app/)
 
                             
