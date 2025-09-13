@@ -66,7 +66,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 * **Average Current Balance** of indivisuals with **Renewable energy** & **Wedding Loans** is nearly half of the average which shows Lower possibility of Loan payment on Time.
 
  ---
- <a name="regional-and-temporal-lendig-trends"></a>
+ <a name="regional-and-temporal-lending-trends"></a>
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Regional_yearly_lending_trends.pivot" width="85%">
 
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/regional_yearly-lending_trends.visual" width="80%">
