@@ -81,7 +81,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 
   ---
 
-  ## Recomendations:
+  ## Recommendations:
 
 **1**  **Loan Portfolio Performance Analysis**
    Since 2015 showed the lowest interest rates (12.99%) and declining loan disbursements, the Company should focus on improving loan volume rather than depending on higher      margins.This can be donw by:
