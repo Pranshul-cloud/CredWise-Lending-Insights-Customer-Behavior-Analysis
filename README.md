@@ -52,7 +52,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 * The **Intrest rates** are Lowest in **2015** **12.99%** cutting down Margins.
 
   ---
-<a name="customer_behaviour_and_income_analytics"></a>
+<a name="customer-behaviour-and-income-analytics"></a>
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Customer_behaviour_income_analytics.pivot" width="85%">
 
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/customer_behaviour_income_analytics.visual" width="80%">
