@@ -1,4 +1,4 @@
-# ⚡Fintech Lending Insights & Customer Behavior Analysis
+# ⚡CredWise Lending Insights & Customer Behavior Analysis
 
 ---
 ## Table of Contents
