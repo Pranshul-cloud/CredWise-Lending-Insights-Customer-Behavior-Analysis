@@ -47,7 +47,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 <a name="loan-portfolio-performance"></a>
 <img src="https://github.com/Pranshul-cloud/CredWise-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Loan_portfolio_performance.pivot" alt="Project Image" width="90%">
 </p>    
-<img src="https://github.com/Pranshul-cloud/CredWise-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Loan_portfolio_performance.visual" width="95%">
+<img src="https://github.com/Pranshul-cloud/CredWise-Lending-Insights-Customer-Behavior-Analysis/blob/main/loan_portfolio_analysis.pivot" width="95%">
 
 
 ### Key Performance Indicators:
