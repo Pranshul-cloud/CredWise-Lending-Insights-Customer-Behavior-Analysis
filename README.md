@@ -39,6 +39,8 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 
 ---
 
+
+
 ## Insights Deep Dive:
 
 <p align="center">
@@ -47,7 +49,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 </p>    
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/loan_portfolio_performance.visual" width="95%">
 
--
+
 ### Key Performance Indicators:
 * **2013** marked the **peak year**, recording the **highest total loan amount** of **$148.6M** alongside the maximum **interest rate** of **14.65%**.
 * **2014** and **2015** experienced a **decline** in both the **total loan amount** disbursed and the **average interest rate**.
