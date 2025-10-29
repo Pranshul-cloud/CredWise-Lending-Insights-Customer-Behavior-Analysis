@@ -58,8 +58,9 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
   <img src="https://github.com/Pranshul-cloud/CredWise-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/ChatGPT%20Image%20Oct%2029%2C%202025%2C%2008_33_00%20AM.png" alt="Project Image" width="40%">
 </p>
 
+<p align="center">
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/customer_behaviour_income_analytics.visual" width="80%">
-
+</p>
 
 
 ### Key Performance Indicators:
