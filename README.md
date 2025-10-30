@@ -43,7 +43,7 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 
 ## Insights Deep Dive:
 
-###                     Loan Portfolio Performance
+### 1 Loan Portfolio Performance
 <p align="center">
 <a name="loan-portfolio-performance"></a>
 <img src="https://github.com/Pranshul-cloud/CredWise-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Loan_portfolio_performance.pivot" alt="Project Image" width="90%">
@@ -58,6 +58,8 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 * The **Intrest rates** are Lowest in **2015** **12.99%** cutting down Margins.
 
   ---
+
+### 2 Customer Behavious & Income Analysis
 <a name="customer-behaviour-and-income-analytics"></a>
 <p align="center">
   <img src="https://github.com/Pranshul-cloud/CredWise-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Screenshot%202025-10-29%20101252.png" alt="Project Image" width="80%">
@@ -74,6 +76,9 @@ Loan disbursements peaked in **2013** at **$148.6M** with the highest **interest
 * **Average Current Balance** of indivisuals with **Renewable energy** & **Wedding Loans** is nearly half of the average which shows Lower possibility of Loan payment on Time.
 
  ---
+
+ 
+### 3 Regional & Temporal Lending-Trends
  <a name="regional-and-temporal-lending-trends"></a>
 <img src="https://github.com/Pranshul-cloud/Fintech-Lending-Insights-Customer-Behavior-Analysis/blob/main/Img/Regional_yearly_lending_trends.pivot" width="85%">
 
